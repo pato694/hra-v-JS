@@ -63,7 +63,7 @@ var animace = {
     }
 }
 
-// Vykreslení obrazů
+// Vykreslení obrazu
 function draw() {
     animace.paintBackground();
     for (var i = 0; i < pipe.length; i++) {
