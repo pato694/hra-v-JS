@@ -1,0 +1,9 @@
+body {
+    background-image: url("../images/pozadi.jpeg");
+}
+
+#nadpis {
+    font-family: "Coiny";
+    font-size: 60px;
+    color: white;
+}
